@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-<hr style="width:100%;height:2px;background-color:#333;">
+<hr style="width:100%;height:3px;background-color:#333;">
 I am a senior undergraduate student from School of Mathematical Sciences, Zhejiang University with a major in Information and Computing Science.
 
 My research interests lie predominately in the area of **Computer Vision** and **Machine Learning**. Recently I mainly focus on generative adversarial network in image generation.
@@ -19,7 +19,7 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
 
 
 # Experience
-<hr style="width:100%;height:2px;background-color:#333;">
+<hr style="width:100%;height:3px;background-color:#333;">
 <table style="font-size:18px;border:none">
   <tr height=200px>
     <td width="180px" align="center" style="border:none">
@@ -55,7 +55,6 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
 </table>
 
 # Contact
-<hr style="width:100%;height:2px;background-color:#333;">
+<hr style="width:100%;height:3px;background-color:#333;">
 You can drop me an email and I will reply ASAP.<br>
 Email: [lixiangtianrichard@gmail.com](lixiangtianrichard@gmail.com)<br>
-Github: [https://github.com/lxtrichard](https://github.com/lxtrichard)<br>
