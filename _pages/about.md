@@ -21,8 +21,8 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
 # Experience
 <hr style="width:100%;height:3px;background-color:#333;">
 <table style="font-size:18px;border:none">
-  <tr height=200px>
-    <td width="180px" align="center" style="border:none">
+  <tr>
+    <td width='20%' align="center" style="border:none">
       <img src="{{ site.url }}{{ site.baseurl }}/images/ucm.png">
     </td>
     <td style="border:none;padding-left:40px">
@@ -32,7 +32,7 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
     </td>
   </tr>
   <tr height=200px>
-    <td width="180px" align="center" style="border:none">
+    <td width='20%' align="center" style="border:none">
       <img src="{{ site.url }}{{ site.baseurl }}/images/berkeley.png">
     </td>
     <td style="border:none;padding-left:40px">
@@ -42,7 +42,7 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
     </td>
   </tr>
   <tr height=200px>
-    <td width="180px" align="center" style="border:none">
+    <td width='20%' align="center" style="border:none">
       <img src="{{ site.url }}{{ site.baseurl }}/images/zju.jpg">
     </td>
     <td style="border:none;padding-left:40px">
