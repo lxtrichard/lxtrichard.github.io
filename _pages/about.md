@@ -17,20 +17,6 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
  
 <br>
 
-# Publication
-<table style="font-size:16px;border:none"> 
- <tbody>
-  <tr> 
-   <td width="20%" align="center" style="border:none"> <img src="/images/project/DTSGAN/super.gif" width="150px" /> </td> 
-   <td style="border:none;padding-left:5%"> <font size="4"><b>DTSGAN: Learning Dynamic Textures via Spatiotemporal Generative Adversarial Networks </b><br />
-   <b>Xiangtian Li</b>, Yijun Li, Debang Li, Ming-Hsuan Yang<br />
-   In submission to CVPR 2021</font>
-   </td>
-  </tr> 
- </tbody>
-</table> 
-<br>
-
 # Experience
 <table style="font-size:18px;border:none">
   <tr>
