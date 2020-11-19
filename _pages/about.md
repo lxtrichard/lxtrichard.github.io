@@ -9,17 +9,29 @@ redirect_from:
 ---
 
 # About Me
-<hr style="width:100%;height:3px;background-color:#333;">
 I am a senior undergraduate student from School of Mathematical Sciences, Zhejiang University with a major in Information and Computing Science.
 
-My research interests lie predominately in the area of **Computer Vision** and **Machine Learning**. Recently I mainly focus on generative adversarial network in image generation.
+My research interests lie predominately in the area of **Computer Vision** and **Machine Learning**. Recently I mainly focus on generative adversarial network in image and video generation.
 
-I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced.edu/) at UC Merced under the supervision of [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). Previously, I was affiliated with ZJU CAD&CG State Key Lab advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and a research assistant in CCNT Lab led by [Prof.Nenggan Zheng](https://person.zju.edu.cn/en/nengganzheng).
+I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced.edu/) at UC Merced under the supervision of [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). Previously, I was affiliated with ZJU CAD&CG State Key Lab advised by [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) and a research assistant in CCNT Lab led by [Prof. Nenggan Zheng](https://person.zju.edu.cn/en/nengganzheng).
+ 
+<br>
 
-
+# Publication
+<table style="font-size:16px;border:none"> 
+ <tbody>
+  <tr> 
+   <td width="20%" align="center" style="border:none"> <img src="/images/project/DTSGAN/super.gif" width="150px" /> </td> 
+   <td style="border:none;padding-left:5%"> <font size="4"><b>DTSGAN: Learning Dynamic Textures via Spatiotemporal Generative Adversarial Networks </b><br />
+   <b>Xiangtian Li</b>, Yijun Li, Debang Li, Ming-Hsuan Yang<br />
+   In submission to CVPR 2021</font>
+   </td>
+  </tr> 
+ </tbody>
+</table> 
+<br>
 
 # Experience
-<hr style="width:100%;height:3px;background-color:#333;">
 <table style="font-size:18px;border:none">
   <tr>
     <td width='20%' align="center" style="border:none">
@@ -49,12 +61,11 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
      <b>Zhejiang University, China </b><br>
      Bachelor of Science | 2017 - 2021<br>
      GPA: 3.80/4.0 <br>
-     <I>Advisor: <a href="http://www.cad.zju.edu.cn/home/chenwei/" target="_blank" rel="noopener">Prof. Wei Chen</a> </I>
     </td>
   </tr>
 </table>
+<br>
 
 # Contact
-<hr style="width:100%;height:3px;background-color:#333;">
 You can drop me an email and I will reply ASAP.<br>
 Email: [lixiangtianrichard@gmail.com](lixiangtianrichard@gmail.com)<br>
