@@ -26,7 +26,8 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
     <td style="border:none;padding-left:40px">
      <b>University of California, Merced </b><br>
      Visiting Student | 2020.07 - present<br>
-     <I>Advisor: <a href="https://faculty.ucmerced.edu/mhyang/" target="_blank" rel="noopener">Prof. Ming-Hsuan Yang</a> </td>
+     <I>Advisor: <a href="https://faculty.ucmerced.edu/mhyang/" target="_blank" rel="noopener">Prof. Ming-Hsuan Yang</a> </I>
+    </td>
   </tr>
   <tr height=200px>
     <td width='20%' align="center" style="border:none">
