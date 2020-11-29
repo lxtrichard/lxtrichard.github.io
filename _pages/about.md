@@ -55,5 +55,3 @@ I am now a research assistant of [Vision and Learning Lab](http://vllab.ucmerced
 # Contact
 You can drop me an email and I will reply ASAP.<br>
 Email: [lixiangtianrichard@gmail.com](lixiangtianrichard@gmail.com)<br>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RveJFBy0xOZa8_1cVtkxfbT_L4eyNYvhGRDR_EM_7v8"></script>
